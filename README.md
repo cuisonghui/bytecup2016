@@ -1,2 +1,5 @@
-# bytecup2016
-IEEE中国联合今日头条举办的机器学习竞赛
+# Byte-Cup-2016
+
+This is the competiion of 2016 Byte Cup
+
+The result is not very good. score = 0.40979904976981
